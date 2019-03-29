@@ -1,6 +1,6 @@
 # Arcade Game Project
 
-This is my version for the arcade game project. I made use of **object-oriented** JavaScript with class prototype functions to recreate the frogger game.
+I made use of **object-oriented** JavaScript with class prototype functions to recreate the classic frogger game. The user can navigate their character on screen to avoid animated enemies in order to get from the bottom of the screen to the top.
 
 ## Run the game
 
